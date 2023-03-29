@@ -24,7 +24,7 @@ The idea is the user be able to access his profile by scanning a QRCode dinamica
 ## Setup the project
 ```
 # clone the project
-$ git@github.com:thalesmengue/test-buzzvel.git
+$ git clone git@github.com:thalesmengue/test-buzzvel.git
 
 # enter the project folder
 
